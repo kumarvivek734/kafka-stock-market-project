@@ -15,5 +15,8 @@ We are going to use different technologies such as Python, Amazon Web Services (
   - EC2
 - Apache Kafka
 
+## Dataset used
+Here's the dataet used for this project: https://github.com/kumarvivek734/kafka-stock-market-project/blob/main/indexProcessed.csv
+
 
 
